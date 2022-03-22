@@ -1,0 +1,11 @@
+.expensiveItem-container {
+    display: flex;
+    align-items: center;
+}
+
+.expensiveItem-title {
+    flex: 1;
+}
+
+.expensiveItem-amount {
+}
